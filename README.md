@@ -33,4 +33,14 @@ Extra Notes:
 4. Benefit Term - is hidden for whole assurance and whole annuity product. The range of benefit term depends on the selected age. Namely, as the max age is 100, if selected age is 80, then the maximum term is 20
 5. All rates including interest are ranging from 0%-50%
 
-
+## Web Photos
+### Full View
+![Pricing Tool Full View](/Images/Pricing%20Tool%20Full%20View.png)  
+### Reserve Graph
+![Reserve Graph](/Images/Reserve%20Graph.png)  
+### Detailed Reserve Graph
+![Detailed Reserve Graph](/Images/Detailed%20Graph.png)  
+### Inputs Tab
+![Inputs](/Images/Inputs.png)  
+### Overview Tab
+![Overview](/Images/Overview.png)  
