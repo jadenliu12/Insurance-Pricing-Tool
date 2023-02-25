@@ -1,4 +1,4 @@
-# Insurance-Pricing-Tool
+# Insurance Pricing Tool
   
 ## Basic Informations  
 Description: An insurance pricing tool that will evaluate the evolution of the reserve  
